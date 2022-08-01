@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-run ### `npm start` in first terminal
+### `npm start` in first terminal
 
-run ### `node server` in second terminal
+### `node server` in second terminal
 
 
 ## About this product
