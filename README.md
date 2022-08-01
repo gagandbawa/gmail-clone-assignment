@@ -48,3 +48,9 @@ http://localhost:8000/messages/123 (Email details)
     http://localhost:8000/filters (List the filters)
     http://localhost:8000/settings(List the settings)
     http://localhost:8000/folders/inbox (List the content of folders) http://localhost:8000/folders/inbox type: delete - Delete the folders
+    
+    
+    
+    
+    
+    
